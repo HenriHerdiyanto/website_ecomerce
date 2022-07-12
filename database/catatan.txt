@@ -1,0 +1,9 @@
+akun:
+-admin
+12345
+
+-customer
+12345
+
+nama database:
+- camrental_
